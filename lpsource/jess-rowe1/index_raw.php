@@ -1,5 +1,5 @@
 <!DOCTYPE html><html lang="en"><head>
-<?php include("/home/forge/".$domain."/lpsource/header.php"); ?>
+<?php include("https://raw.githubusercontent.com/onetenmediagroup/LP-reptest/lpsource/header.php"); ?>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>news.com.au | Jessica Rowe Finally Opens Up On Her Shock Departure From Studio 10</title>
@@ -286,5 +286,5 @@
 
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Playfair+Display:700,900|Roboto+Slab:400,700" rel="stylesheet">
 
-<?php include("/home/forge/".$domain."/lpsource/footer.php"); ?>
+<?php include("https://raw.githubusercontent.com/onetenmediagroup/LP-reptest/lpsource/footer.php"); ?>
 </body></html>
